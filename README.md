@@ -1,7 +1,6 @@
 # AmazonLEA
 Amazon SDA challenge
-
-![Winners](https://edu.tuiasi.ro/pluginfile.php/113873/mod_label/intro/Premiile%20LearnEarn_SDA2022.jpg)
+![Premiile LearnEarn_SDA2022](https://user-images.githubusercontent.com/37843973/179961655-8554987b-210e-43d4-8d4b-2489b956f7c3.jpg)
 
 Problema 1 <br/>
 Se citesc de la tastatura N elemente numere intregi care se stocheaza si reprezinta intr-o structura de
