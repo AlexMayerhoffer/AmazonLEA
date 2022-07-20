@@ -1,13 +1,15 @@
 # AmazonLEA
 Amazon SDA challenge
 
-Problema 1
+![alt text](https://edu.tuiasi.ro/pluginfile.php/113873/mod_label/intro/Premiile%20LearnEarn_SDA2022.jpg)
+
+Problema 1 <br/>
 Se citesc de la tastatura N elemente numere intregi care se stocheaza si reprezinta intr-o structura de
 date SD. Propuneti doi algoritmi eficienti care determina al k-lea cel mai mic element si al k-lea cel
 mai mare element din multimea data, fara sa se utilizeze memorie suplimentara (in afara de cea
 ocupata de SD) si fara sa se numere elementele.
 
-Problema 2
+Problema 2 <br/>
 Fie 𝑇𝑇 un şir de 𝑛𝑛 caractere şi 𝑃𝑃 un pattern de 𝑚𝑚 caractere. Să se verifice dacă 𝑃𝑃 apare sau nu ca
 subsecvenţă în şirul 𝑇𝑇.
 Se va parcurge șirul T, caracter cu caracter, și, pentru fiecare poziție i se va verifica potrivirea șirului
